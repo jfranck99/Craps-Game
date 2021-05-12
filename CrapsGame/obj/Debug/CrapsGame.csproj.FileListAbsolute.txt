@@ -1,0 +1,14 @@
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\bin\Debug\CrapsGame.exe.config
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\bin\Debug\CrapsGame.exe
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\bin\Debug\CrapsGame.pdb
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\obj\Debug\CrapsGame.csprojAssemblyReference.cache
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\obj\Debug\CrapsGame.csproj.CoreCompileInputs.cache
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\obj\Debug\CrapsGame.exe
+C:\Users\Rexdu\Desktop\School work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\obj\Debug\CrapsGame.pdb
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\bin\Debug\CrapsGame.exe.config
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\bin\Debug\CrapsGame.exe
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\bin\Debug\CrapsGame.pdb
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\obj\Debug\CrapsGame.csprojAssemblyReference.cache
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\obj\Debug\CrapsGame.csproj.CoreCompileInputs.cache
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\obj\Debug\CrapsGame.exe
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Spring 2019\Programming III\CrapsGame\CrapsGame\obj\Debug\CrapsGame.pdb
